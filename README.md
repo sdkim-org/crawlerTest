@@ -1,5 +1,5 @@
 ### Crawling DOM Parsing
 
-> Test crawling with node.js
-> Use 'request', 'cheerio', 'iconv' modules
-> Reference : http://victorydntmd.tistory.com/94
+> Test crawling with node.js <br>
+> Use 'request', 'cheerio', 'iconv' modules <br>
+> Reference : http://victorydntmd.tistory.com/94 <br>
